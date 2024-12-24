@@ -1,0 +1,30 @@
+.ota{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+.ded{
+    font-size: 50px;
+    text-align: center;
+}
+.papa{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.docha{
+    width: 380px;
+    height: 330px;
+    background-color: red;
+    color: white;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ona{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    margin-top: 80px;
+}
